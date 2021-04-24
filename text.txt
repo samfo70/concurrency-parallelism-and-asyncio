@@ -1,0 +1,32 @@
+
+
+---------------
+
+File Name: IMG_0100.HEIC
+Path: /var/mobile/Library/SMS/Attachments/41/01/09067002-C3B8-430C-BBAC-3B5AF73FEBDC/IMG_0100.HEIC
+Image Extension: HEIC
+Size: 348 KB (356,340 bytes)
+Dimensions: 3000 x 2250 pixels (6.75 MP)
+Dimensions For App Processing: 636 x 850 pixels (0.54 MP)
+File Modification Date: Apr 24, 2021 at 03:49:55
+Temporary File Creation Date: Apr 24, 2021 at 03:49:55
+Pixel Width: 3000
+Pixel Height: 2250
+Depth: 8 bits/channel
+Orientation: 6 (Rotate 90º CW)
+Color Model: RGB
+Profile Name: sRGB IEC61966-2.1
+Orientation: 6 (Rotate 90º CW)
+Tile Width: 512
+Tile Length: 512
+File Reference Count: 1
+File Owner Account Name: mobile
+File Group Owner Account Name: mobile
+File Posix Permissions: 420
+File Group Owner Account ID: 501
+File Protection Key: NSFileProtectionCompleteUntilFirstUserAuthentication
+File System File Number: 52467708
+File Owner Account ID: 501
+File Type: NSFileTypeRegular
+File Extension Hidden: 0
+File System Number: 16777221
